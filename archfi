@@ -13,7 +13,7 @@
 
 
 apptitle="Arch Linux Fast Install (archfi) - Version: 2025.01.31 (GPLv3)"
-baseurl=https://raw.githubusercontent.com/MatMoul/archfi/master
+baseurl="https://raw.githubusercontent.com/MatMoul/archfi/master"
 cpl=0
 skipfont="0"
 fspkgs=""
