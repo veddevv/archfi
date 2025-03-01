@@ -16,13 +16,10 @@ First, boot with the [last Arch Linux image](https://www.archlinux.org/download/
 
 Then make sure you have Internet connection on the Arch iso. If you have a wireless connection the [`iwctl`](https://wiki.archlinux.org/index.php/Iwd#iwctl) command might be useful to you. You can also read the [Network configuration](https://wiki.archlinux.org/index.php/Network_configuration) from the Arch Linux guide for more detailed instructions.
 
-Then download the script with from the command line:
 
-    curl -LO archfi.sf.net/archfi
+Use this command to download the script:
 
-If SourceForge is down, use this instead:
-
-    curl -LO matmoul.github.io/archfi
+    curl -LO https://github.com/veddevv/archfi
 
 Finally, launch the script:
 
