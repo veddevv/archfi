@@ -19,7 +19,7 @@ Then make sure you have Internet connection on the Arch iso. If you have a wirel
 
 Use this command to download the script:
 
-    curl -LO https://github.com/veddevv/archfi
+    curl -LO veddevv.github.io/archfi
 
 Finally, launch the script:
 
